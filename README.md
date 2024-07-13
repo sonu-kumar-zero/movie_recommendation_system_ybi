@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/YBIFoundation/Dataset/main/Movies%20Recommenda
 The system's performance can be evaluated using metrics like precision, recall, and F1-score to assess recommendation accuracy against user preferences.
 
 ## Credits
-@Developed by [https://github.com/sonu-kumar-zero]@SonuKumar
+@Developed by [https://github.com/sonu-kumar-zero]
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
